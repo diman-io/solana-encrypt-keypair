@@ -22,6 +22,11 @@ python3 solana-encrypt-keypair-fantom.py PRIVATE-KEY > wallet.json
 
 ## Sample for Fantom
 
+### Export private key from Fantom wallet
+![image](https://user-images.githubusercontent.com/71597545/120826373-6b760000-c56b-11eb-8ffb-01b1d5e06824.png)
+
+
+### Encrypt data to native Solana keystore file
 ```
 # python3 solana-encrypt-keypair-fantom.py 2456usMDuhm6kjPab5jSsaKHoA7YJYn8wvJ2zXsKbPr5QHuqvGTyQhmxsgUaYgFzLbRPaKLVzXkAnBoNZneLVxd5 > fantom.json
 
