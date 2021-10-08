@@ -2,6 +2,8 @@
 
 Tool for encrypt Solana address and private key to native Solana keystore file.
 
+**Note**. Exodus uses Fantom format now (version 21.10.8)
+
 ## Usage
 ```
 python3 solana-encrypt-keypair-exodus.py ADDRESS PRIVATE-KEY > wallet.json
